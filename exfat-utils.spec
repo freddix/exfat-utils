@@ -1,7 +1,7 @@
 Summary:	Utilities for exFAT filesystem
 Name:		exfat-utils
 Version:	1.0.1
-Release:	1
+Release:	2
 License:	GPL v3+
 Group:		Applications/System
 #Source0Download: http://code.google.com/p/exfat/downloads/list
